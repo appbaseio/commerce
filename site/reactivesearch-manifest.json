@@ -1,0 +1,25 @@
+{
+    "image": "https://imgur.com/QlYvx1i.png",
+    "name": "classic",
+    "label": "Ecommerce",
+    "description": "Next JS template",
+    "section": "e-commerce-ssr",
+    "section_label": "<h3>E-commerce Search (SSR)</h3>",
+    "excludePaths": [
+        "/.eslintignore",
+        "/.eslintrc.js",
+        "/.gitignore",
+        "/.nvmrc",
+        "/.prettierrc.js",
+        "/.vscode",
+        "/README.md",
+        "/build",
+        "/config-overrides.js",
+        "/yarn.lock"
+    ],
+    "pages": {
+        "home": "/"
+    },
+    "preferences_path": "config/reactivesearch.js",
+    "netlifyURL": "https://62d710e43feb950008f9af43--appbase-ecomm.netlify.app/"
+}
